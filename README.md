@@ -46,7 +46,7 @@ Powered by Vite for instant hot module replacement and blazing build times.
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/page-replacement-visualizer.git
+git clone https://github.com/Sarth00718/page-replacement-visualizer.git
 
 # Jump into the directory
 cd page-replacement-visualizer
@@ -134,28 +134,6 @@ src/
 
 ---
 
-## 🎯 Roadmap
-
-- [ ] Add Second Chance (Clock) algorithm
-- [ ] Export simulation as GIF/Video
-- [ ] Custom color themes
-- [ ] Performance comparison charts
-- [ ] Mobile touch gestures for step control
-- [ ] Share simulation via URL
-- [ ] Algorithm race mode (side-by-side comparison)
-
----
-
-## 🤝 Contributing
-
-Contributions make the open-source community amazing! Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ---
 
 ## 📜 License
@@ -172,9 +150,9 @@ If this project helped you understand page replacement algorithms better, give i
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Sarth Narola - sarthnarola018@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/page-replacement-visualizer](https://github.com/YOUR_USERNAME/page-replacement-visualizer)
+Project Link: [https://github.com/Sarth00718/page-replacement-visualizer](https://github.com/Sarth00718/page-replacement-visualizer)
 
 ---
 
